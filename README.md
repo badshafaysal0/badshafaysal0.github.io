@@ -7,7 +7,8 @@
 <body>
 
 <h1>Welcome to My PHP Website!</h1>
-<a href="contact_form.html">Go to Contact Form</a>
+<h2>Hi I am BAdahs</h2>h2>
+
 
 </body>
 </html>
